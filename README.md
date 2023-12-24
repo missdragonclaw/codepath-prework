@@ -21,25 +21,27 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
-3-5 applications i love include: reddit, openai, slack, canvas, notion.
-2-3 features i love: user collaboration & interaction, organization & structured information, customization & flexiblity.
+3-5 applications i love include: reddit, openai, slack, canvas, notion.                                  2-3 features i love: user collaboration & interaction, organization & structured information, customization & flexiblity.
+**slack:**
+- allows users to integrate third-party apps and services for customization.
+- utilizes various channels for organized communication.
 
-slack
-    - allows users to intergrate thrid party apps and services for coustomization.-
-    - use of various channels 
-notion
-    - highly coustomizable work space adapting to workflows.
-    - offers a flexible structure for organizing information using pages, databases, and nested content blocks.
-canvas 
-    - supports the integration of multimedia content, such as videos and presentations, into the learning materials.
-    - supports collaborative learning environments where students and educators can interact, share resources, and participate in discussions.
-openai
-    - provides tools for creating and sharing AI-generated content, including text, images, and code.
-    - offers flexible tools for customizing and fine-tuning AI models based on specific use cases.
-reddit 
-    - uses a hierarchical structure with subreddits for organizing discussions around specific topics.
-    - users can create posts, comment on threads, and engage in discussions.
+**notion:**
+- highly customizable workspace that adapts to different workflows.
+- offers a flexible structure for organizing information using pages, databases, and nested content blocks.
 
+**canvas:**
+- supports the integration of multimedia content, such as videos and presentations, into learning materials.
+- facilitates collaborative learning environments for interaction, resource sharing, and discussions.
+
+**openai:**
+- provides tools for creating and sharing AI-generated content, including text, images, and code.
+- offers flexible tools for customizing and fine-tuning AI models based on specific use cases.
+
+**reddit:**
+- uses a hierarchical structure with subreddits for organizing discussions around specific topics.
+- allows users to create posts, comment on threads, and engage in discussions.
+  
 app idea: "insideoutnuture"
 
 insideoutnuture is a purpose-built ios app designed to support black maternal mothers who are navigating the challenges of pregnancy and motherhood within the context of incarceration and the broader prison reform system. the app serves as a holistic support system, providing crucial resources, educational content, and a community network.
