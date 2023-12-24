@@ -17,7 +17,8 @@ The following **required** functionality is completed:
 - [X] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-![](https://i.imgur.com/a/SnuDIzW.gif)
+![] (https://i.imgur.com/a/SnuDIzW.gif)
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/SnuDIzW"><a href="//imgur.com/SnuDIzW">my_walkthrough</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 ## App Brainstorming (Step 4)
 
