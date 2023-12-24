@@ -21,8 +21,7 @@ The following **required** functionality is completed:
 
 ## App Brainstorming (Step 4)
 
-3-5 applications i love include: reddit, openai, slack, canvas, notion.                                  2-3 features i love: user collaboration & interaction, organization & structured information, customization & flexiblity.
-
+3-5 applications i love include: reddit, openai, slack, canvas, notion.                                  2-3 features i love: user collaboration & interaction, organization & structured information,customization & flexiblity.
 **slack:**
 - allows users to integrate third-party apps and services for customization.
 - utilizes various channels for organized communication.
