@@ -5,9 +5,9 @@ codepath-prework iOS project
 
 Submitted by: Kayla Mason
 
-buttonparty is an app that 
+buttonparty is an app with simple UI elements (labels and a button) that change the background color when tapped.
 
-Time spent: 3.5 week spent in total.
+Time spent: 4hrs spent in total.
 
 ## Required Features
 
