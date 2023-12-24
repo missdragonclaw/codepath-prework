@@ -22,6 +22,7 @@ The following **required** functionality is completed:
 ## App Brainstorming (Step 4)
 
 3-5 applications i love include: reddit, openai, slack, canvas, notion.                                  2-3 features i love: user collaboration & interaction, organization & structured information, customization & flexiblity.
+
 **slack:**
 - allows users to integrate third-party apps and services for customization.
 - utilizes various channels for organized communication.
@@ -42,34 +43,34 @@ The following **required** functionality is completed:
 - uses a hierarchical structure with subreddits for organizing discussions around specific topics.
 - allows users to create posts, comment on threads, and engage in discussions.
   
-app idea: "insideoutnuture"
+**app idea: "insideoutnuture"**
 
 insideoutnuture is a purpose-built ios app designed to support black maternal mothers who are navigating the challenges of pregnancy and motherhood within the context of incarceration and the broader prison reform system. the app serves as a holistic support system, providing crucial resources, educational content, and a community network.
 
-key features:
+**key features:**
 
-audio educational modules:
+**audio educational modules:**
 - tailored educational content presented in audio format, addressing the unique needs of black maternal mothers. this accommodates individuals with varying literacy levels and supports accessibility.
 
-secure peer-to-peer messaging:
+**secure peer-to-peer messaging:**
 - a secure messaging feature that allows incarcerated mothers to connect with a pre-approved network, including family, friends, and legal representatives. this feature facilitates communication within the constraints of correctional facilities.
 
-resource library via text and audio:
+**resource library via text and audio:**
 - a resource hub accessible through both text and audio formats, providing information on legal rights, healthcare access, and support services. this accommodates users with varying literacy levels.
 
-appointment reminder system:
+**appointment reminder system:**
 - an appointment reminder system using audio messages, ensuring mothers are aware of prenatal and postpartum medical appointments, court dates, and other essential events.
 
-legal aid directory via phone call request:
+**legal aid directory via phone call request:**
 - a legal aid directory accessible through a phone call request system, connecting users to legal support services. this accommodates the limited access to written information within correctional facilities.
 
-mental health audio support sessions:
+**mental health audio support sessions:**
 - integration with mental health resources presented in audio format, including counseling services and guided support sessions. this addresses the emotional well-being of mothers in an accessible manner.
 
-secure peer support hotline:
+**secure peer support hotline:**
 - a secure peer support hotline within the app, allowing mothers to connect with trained volunteers or professionals. this provides immediate support and reduces isolation.
 
-audio events announcements:
+**audio events announcements:**
 - an events section that announces local and virtual events through audio messages. this includes support group meetings, workshops, and advocacy events.
 
 insideoutnutures aims to bridge the gap for black maternal mothers within the prison system by offering accessible resources and a supportive community through innovative features designed for the constraints of correctional facilities.
